@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Read it carefully.
 
-Step Work by odoo
+Step Work by Laravel
 ----
 1. install git bash :
    ```

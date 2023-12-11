@@ -43,6 +43,14 @@ Step Work by Laravel
    ```
    git clone https://github.com/Oussama-benrkia/Marketplace
    composer install     ||      composer update
-   php artisan storage:link
+   ```
+11. create file .env , copy the content of .env.example and paste into .env 
+
+12. run this commande :
+   ```
+   php artisan key:generate
+   php artisan cache:clear
    php artisan serve
    ```
+
+
